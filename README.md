@@ -18,13 +18,22 @@
 
 15(1+2+3+4+5)
 
+## インストール
+以下のコマンドを実行するとリポジトリがクローンされる。
+```git@github.com:cyanhide/robosys202x.git```
 
+## 必要なソフトウェア
 
+* python
+   ◦テスト済み:3.7~3.10
 
+## テスト環境
 
+*Ubuntu 20.04 on Windows
 
-
+## Licence
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
- * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
-* © 2022 Ryuichi Ueda
+ * このパッケージのコードは, 下記のスライド (CC-BY-SA 4.0 by Ryuichi Ueda) のものを, 本人の許可を得て自身の著作としたものです.
+ryuichiueda/my_slides robosys_2022 lesson4.md
+* © 2023 Hidenori Koseki
 
