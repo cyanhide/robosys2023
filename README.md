@@ -35,7 +35,7 @@ git@github.com:cyanhide/robosys202x.git
 
 ## テスト環境
 
-*Ubuntu 20.04 on Windows
+* Ubuntu 20.04 on Windows
 
 ## Licence
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
