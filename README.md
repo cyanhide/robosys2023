@@ -30,6 +30,7 @@ git@github.com:cyanhide/robosys202x.git
 ## 必要なソフトウェア
 
 * python
+
    ◦テスト済み:3.7~3.10
 
 ## テスト環境
