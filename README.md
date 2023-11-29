@@ -14,14 +14,18 @@
 
 (例）
 
-```$ seq 5 | ./plus``` 
+```bash
+$ seq 5 | ./plus
+``` 
 
 15(1+2+3+4+5)
 
 ## インストール
 以下のコマンドを実行するとリポジトリがクローンされる。
 
-```git@github.com:cyanhide/robosys202x.git```
+```bash
+git@github.com:cyanhide/robosys202x.git
+```
 
 ## 必要なソフトウェア
 
@@ -35,6 +39,6 @@
 ## Licence
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
  * このパッケージのコードは, 下記のスライド (CC-BY-SA 4.0 by Ryuichi Ueda) のものを, 本人の許可を得て自身の著作としたものです.
-◦(https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson4.md)
+◦(robosys_2022/lesson4.md)
 * © 2023 Hidenori Koseki
 
