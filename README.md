@@ -10,21 +10,19 @@
 
 2. 以下のコマンドを使用して実行してください。
 
-```$ seq "好きな整数" | ./plus```
-
 (例）
 
 ```bash
 $ seq 5 | ./plus
 ``` 
 
-15(1+2+3+4+5)
+15
 
 ## インストール
 以下のコマンドを実行するとリポジトリがクローンされる。
 
 ```bash
-git@github.com:cyanhide/robosys202x.git
+$ git clone https://github.com/kit59/robosys2023.git
 ```
 
 ## 必要なソフトウェア
@@ -39,8 +37,7 @@ git@github.com:cyanhide/robosys202x.git
 
 ## Licence
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
- * このパッケージのコードは, 下記のスライド (CC-BY-SA 4.0 by Ryuichi Ueda) のものを, 本人の許可を得て自身の著作としたものです.
-
-◦[ryuichiueda/my_slides robosys_2022 lesson4.md](https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson4.md?plain=1)
+* このパッケージのコードは, 下記のスライド (CC-BY-SA 4.0 by Ryuichi Ueda) のものを, 本人の許可を得て自身の著作としたものです.
+    * [ryuichiueda/my_slides robosys_2022 lesson4.md](https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson4.md?plain=1)
 * © 2023 Hidenori Koseki
 
