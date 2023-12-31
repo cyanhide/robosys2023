@@ -19,11 +19,16 @@ $ seq 5 | ./plus
 15
 
 ## インストール
-以下のコマンドを実行するとリポジトリがクローンされる。
+GitHubからリポジトリをクローンする。
 
 ```bash
-$ git clone https://github.com/kit59/robosys2023.git
+$ git clone https://github.com/cyanhide/robosys2023.git
 ```
+クローン出来たらリポジトリのディレクトリに移動する
+```bash
+$ cd robosys2023
+```
+
 
 ## 必要なソフトウェア
 
